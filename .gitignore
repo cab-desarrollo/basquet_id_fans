@@ -51,7 +51,6 @@ Thumbs.db
 *.log
 
 # Excel/Parquet files
-*.xlsx
 *.xls
 *.parquet
 
