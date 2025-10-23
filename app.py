@@ -470,7 +470,7 @@ def main():
 
     # --- D. Aplicación Principal (Si está logueado) ---
 
-    df_fans = load_data('BID.BaseDeDatos.xlsx')
+    df_fans = load_data('BID_BaseDeDatos.xlsx')
 
     # --- E. Configuración de la Barra Lateral (Sidebar) ---
     if logo:
